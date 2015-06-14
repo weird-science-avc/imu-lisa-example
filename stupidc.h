@@ -3,11 +3,10 @@
 
 struct Orientation 
 {
-		  public:
-				    int yaw;
-					  int pitch;
-					    int roll;
+  public:
+  float yaw;
+  float pitch;
+  float roll;
 };
 
 #endif // Orientation_h
-
